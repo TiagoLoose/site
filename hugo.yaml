@@ -61,7 +61,7 @@ params:
   title: "Tiago Loose"
   description: Desenvolvedor de software
   staticPath: '/site'  # The path to serve the static files from
-  favicon: "/fav.jpg"
+  favicon: "fav.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -304,7 +304,7 @@ params:
     items:
       - title: Profile Site with Hugo
         content: Site utilizando Hugo e o template Hugo Profile para portfolio pessoal.
-        image: /images/projects/profile.png
+        image: images/projects/profile.png
         featured:
           name: Demo
           link: https://tiagoloose.com
@@ -321,7 +321,7 @@ params:
           O aplicativo está paralisado por direitos autorais.
           Isso me ajudou a praticar conceitos e arquitetura de desenvolvimento de software.
 
-        image: /images/projects/fantasy-game.jpg
+        image: images/projects/fantasy-game.jpg
         badges:
           - "Java"
           - "Servlets" 
@@ -334,7 +334,7 @@ params:
         #    url: https://github.com/Tiago-Loose/site
       - title: Aplicativo de Bingo/Sorteio de Prémios
         content: Aplicativo Android para compra de cartela de números e acompanhamento do sorteio.
-        image: /images/projects/bingo.jpg
+        image: images/projects/bingo.jpg
         badges:
           - "Android"
         #links:
