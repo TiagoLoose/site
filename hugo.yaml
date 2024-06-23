@@ -3,7 +3,7 @@
 #title = 'My New Hugo Site'
 #theme = 'hugo-profile'
 
-baseURL: "https://tiagoloose.com"
+baseURL: "https://tiagoloose.github.io/site/"
 languageCode: "pt-BR"
 title: "Tiago Loose"
 theme: hugo-profile
@@ -60,7 +60,7 @@ Menus:
 params:
   title: "Tiago Loose"
   description: Desenvolvedor de software
-  # staticPath: ""  # The path to serve the static files from
+  staticPath: '/site'  # The path to serve the static files from
   favicon: "/fav.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
