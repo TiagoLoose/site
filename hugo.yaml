@@ -6,7 +6,7 @@
 baseURL: "https://tiagoloose.github.io/site/"
 languageCode: "pt-BR"
 title: "Tiago Loose"
-theme: hugo-profile
+theme: custom-hugo-profile
 
 outputs:
   home:
