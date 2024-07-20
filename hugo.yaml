@@ -133,7 +133,7 @@ params:
     intro: "Olá, meu nome é"
     title: "Tiago."
     subtitle: "Desenvolvedor de software"
-    content: "Sou um desenvolvedor especializado em criar soluções robustas utilizando tecnologias como Java, Spring, Angular, NextJS e Python."
+    content: "Sou um desenvolvedor especializado em criar soluções utilizando tecnologias como Java, Spring, Angular e Python."
     image: /images/avatar.jpg
     bottomImage:
       enable: true
@@ -157,20 +157,18 @@ params:
     title: "Sobre mim"
     #image: "/images/me.png"
     content: |-
-      Sou um desenvolvedor de software com mais de 11 anos de experiência, concentrando minha atuação principalmente no desenvolvimento back-end para resolver desafios em ambientes de pequeno e médio porte. Além do back-end, tenho experiência abrangente que inclui front-end, administração de banco de dados e implantação de soluções.
+      Sou um desenvolvedor de software com mais de 13 anos de experiência, concentrando minha atuação principalmente no desenvolvimento back-end para resolver desafios em ambientes de pequeno e médio porte. 
 
-      Ao longo da minha trajetória, acumulei expertise no desenvolvimento de aplicações utilizando uma variedade de tecnologias como Java, JavaScript, jQuery, AngularJS, Angular 11 e NextJS, principalmente com foco no back-end. Tenho experiência significativa em levantamento de requisitos, modelagem de banco de dados e criação de pipelines automatizados de implantação utilizando Docker, Kubernetes, AWS EKS, Rancher Kubernetes Engine 2 (RKE2), Helm e Gitlab CI/CD.
+      Ao longo da minha trajetória, acumulei experiência no desenvolvimento de aplicações utilizando tecnologias como Java, Spring Framework, JavaScript. 
+
+      Tenho conhecimento em levantamento de requisitos, modelagem de banco de dados e criação de pipelines automatizados de implantação utilizando Docker, Kubernetes, AWS EKS, Rancher Kubernetes Engine 2 (RKE2), Helm e Gitlab CI/CD.
 
       Sou graduado em Sistemas de Informação pela Faculdade de Pimenta Bueno (FAP) e possuo especialização em Gestão de Banco de Dados pela ULBRA.
     skills:
       enable: true
       title: "Aqui estão algumas tecnologias com as quais tenho trabalhado recentemente:"
       items:
-        - "HTML"
-        - "CSS"
         - "JavaScript"
-        - "NextJS"
-        - "Angular"
         - "Java"
         - "Spring"
         - "Python"
@@ -195,8 +193,6 @@ params:
         #  name: "View the project"
         #  url: "https://example.com"
         content: |-
-           Membro da equipe de implantação do software de gerenciamento de tarefas do departamento; 
-
            Manutenção, correção de bugs e implementação de nova funcionalidade na aplicação web de gerenciamento de débitos utilizando SprintBoot, Liquibase, MySQL, AngularJS, ActiveMQ, Docker, DockerCompose; 
 
            Desenvolvimento de aplicativo de assinatura digital utilizando Java; 
@@ -299,7 +295,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     title: "Projetos"
     items:
       - title: Profile Site with Hugo
